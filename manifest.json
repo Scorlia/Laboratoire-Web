@@ -1,0 +1,86 @@
+[
+  {
+    "id": "pacman",
+    "title": "Pacman, en CSS",
+    "path": "pacman/index.html",
+    "original": "https://github.com/Scorlia/Pacman",
+    "sha256": "9e1abcb37e7da1a12778ef115e736c2e1aed6365130468a37e5e97d78fef5f9c"
+  },
+  {
+    "id": "heart",
+    "title": "Battement de cœur",
+    "path": "heart/index.html",
+    "original": "https://github.com/Scorlia/Battement-de-coeur",
+    "sha256": "d73de9025a230254b7ab31f9460839f99235c813b9c833d8420c71282130e072"
+  },
+  {
+    "id": "bounce",
+    "title": "Bounce, bounce",
+    "path": "bounce/index.html",
+    "original": "https://github.com/Scorlia/Bouncing-text-and-ball",
+    "sha256": "93c0ce8a1c552d3097bc0ec01ccc303dc16e86657fd85cd534956ae6b0d8aa30"
+  },
+  {
+    "id": "rectangles",
+    "title": "Rectangles en 3D",
+    "path": "rectangles/index.html",
+    "original": "https://github.com/Scorlia/Animated-3D-rectangles",
+    "sha256": "c5f528c675223e75641d49c08129815ee7086cb6cf8c332d075ab002117b4ffb"
+  },
+  {
+    "id": "light-clock",
+    "title": "L’heure, côté clair",
+    "path": "light-clock/index.html",
+    "original": "https://github.com/Scorlia/Light-Dark-Clock",
+    "sha256": "41ef07eea18c3a74de581f7c43433a850f2dc3ac7078f613c00fa3a3232c85be"
+  },
+  {
+    "id": "clock",
+    "title": "Le temps en boucle",
+    "path": "clock/index.html",
+    "original": "https://github.com/Scorlia/Horloge",
+    "sha256": "8a8b932afd174d058f968b35ed4e65d81dc252cf49afc45f495ce5f45f769d37"
+  },
+  {
+    "id": "flip",
+    "title": "L’autre côté",
+    "path": "flip/index.html",
+    "original": "https://github.com/Scorlia/Flip-Card",
+    "sha256": "3912d08b23be01be012025fe8cc69010cad9ac885947175633ceb62842e11238"
+  },
+  {
+    "id": "netflix",
+    "title": "Générique personnel",
+    "path": "netflix/index.html",
+    "original": "https://github.com/Scorlia/Netflix-effect",
+    "sha256": "bd6d87a430cfc2591394642fb152062e354479853b8db01398b9dc039457d1ab"
+  },
+  {
+    "id": "floating",
+    "title": "Texte flottant",
+    "path": "floating/index.html",
+    "original": "https://github.com/Scorlia/Floating-text",
+    "sha256": "cf3d867bec96e9efe77229a7481ae98841a4703478490e2cc156ef321c8507fe"
+  },
+  {
+    "id": "squares",
+    "title": "Carrés tournants",
+    "path": "squares/index.html",
+    "original": "https://github.com/Scorlia/Carr-s-tournants",
+    "sha256": "46fa394900af851e220e553667a60f49f4ea6c23b2e4801f0712717ff720ab33"
+  },
+  {
+    "id": "glass-clock",
+    "title": "L’heure en transparence",
+    "path": "glass-clock/index.html",
+    "original": "https://github.com/Scorlia/Horloge-transparente",
+    "sha256": "2c2f14b24dcd9f87a860d88841bf362268f06d1fe1599532a2bffd1aa266e554"
+  },
+  {
+    "id": "menu",
+    "title": "Menu en mouvement",
+    "path": "menu/index.html",
+    "original": "https://github.com/Scorlia/Menu-anim-01",
+    "sha256": "88f3ae95c37edf93a6ecff97fc27c7d3ebcb4a1b2b2bb37365a7bd190a3bfab0"
+  }
+]
